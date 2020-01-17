@@ -22,7 +22,7 @@ The project was implemented in Python 3.7.3.
 2. Sentiment Analysis on the tweets for each CEO
 3. Topic Modeling using Latent Dirichlet Allocation for each CEO to determine their tweeting styles and a breakdown of their common topics
 4. Stock Price Analysis (Regression) using a combination of CEO attributes (age, compensation etc.), Tweet attributes (tweeting style/topics, sentiment scores, number of retweets and likes etc.) and Company attributes (company statistics, daily returns, volume of stock traded etc.)
-5. Engagement Analysis to determine what kind of topics garner more engagement from their customers
+5. Engagement Analysis to determine what kind of topics garner more engagement from their customers using Logistic Regression
 
 ### General Summary
 
