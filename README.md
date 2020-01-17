@@ -28,4 +28,13 @@ The project was implemented in Python 3.7.3.
 <img width="750" alt="twitter_summary" src="https://user-images.githubusercontent.com/44115595/72647381-0f8ee500-393e-11ea-9671-d0b1a6f78fec.PNG">
 
 ### Insights and Recommendations
+#### Sentiment Analysis and Topic Modeling
+* The sentiments revealed that most of the CEOs' tweets are positive or neutral. The tweets that were classified as negative were general condolences to global tragedies. 
+* A closer look revealed that the sentiment analyzer was unable to distinguish between genuine and sarcastic tweets. For example, John Legere (T-Mobile) has a good number of sarcastic tweets directed towards his competitors but they were classified as positive.
+* Topic Modeling revealed different tweeting styles of CEOs and how they maintain their online persona in the eyes of their customers and follwers. 
+For example, Elon Musk has a very casual tweeting style and uses Twitter mainly as a marketing tool where he talks about his various products.  On the other hand, Tim Cook makes a lot of statements about current events and clarifies what Apple is doing to help out. We also saw that he tries to connects with his followers by retweeting their pictures and captions it with the very popular hashtag #shotoniphone
+* Some of the CEOs focus on tweeting about their business, whereas some CEOs don't use Twitter as an advertising platform. Instead, they talk about their personal interests and their take on social and global issues. These CEOs are using social media to establish an emotional connection with their followers and who by association can also connect to their brand.
 
+#### Stock Price and Engagement Analysis
+* From our analysis, we saw that engagement and influence has an economic impact of the company. A single tweet has the potential to affect the stock market prices. The influential CEOs can leverage Twitter to turn the negative sentiments of the crowd to the positive ones and affect the market (Examples are given in the presentation).
+* Engagement analysis showed that customers repond well when CEOs engage in conversations, apart from pushing their products or services. When CEOs use the platform to promote philanthropic efforts, impart life advice or share their personal interests, they tend to give the impression of being authentic and relatable, increasing their engagement.
