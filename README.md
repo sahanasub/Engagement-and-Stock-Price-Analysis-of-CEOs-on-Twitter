@@ -25,6 +25,7 @@ The project was implemented in Python 3.7.3.
 5. Engagement Analysis to determine what kind of topics garner more engagement from their customers using Logistic Regression
 
 ### General Summary
+![summary](https://user-images.githubusercontent.com/44115595/72647381-0f8ee500-393e-11ea-9671-d0b1a6f78fec.PNG)
 
 ### Insights and Recommendations
 
