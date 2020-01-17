@@ -8,10 +8,21 @@ Twitter is one of the largest microblogging social network of this decade and CE
 In this project, we analyze the tweets of various CEOs and try to ascertain the characteristics and tweeting styles that make them influential. We also look into customer engagement based on these tweets, and what topics help the company build their brand presence. We tie it all together by looking at whether these tweets offer any support for increased success in the company’s economic value. 
  
 ### Technology
+The project was implemented in Python 3.7.3.
 
 #### Packages
+* tweepy
+* spacy
+* gensim
+* nltk
+* textblob
 
 ### Approach
+1. Scraped Twitter accounts of 31 CEOs from different industries using the API. Also scraped daily stock data and financial statistics from Yahoo Finance for the companies whose CEOs we analyzed.
+2. Sentiment Analysis on the tweets for each CEO
+3. Topic Modeling using Latent Dirichlet Allocation for each CEO to determine their tweeting styles and a breakdown of their common topics
+4. Stock Price Analysis (Regression) using a combination of CEO attributes (age, compensation etc.), Tweet attributes (tweeting style/topics, sentiment scores, number of retweets and likes etc.) and Company attributes (company statistics, daily returns, volume of stock traded etc.)
+5. Engagement Analysis to determine what kind of topics garner more engagement from their customers
 
 ### General Summary
 
