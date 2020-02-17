@@ -38,3 +38,7 @@ For example, Elon Musk has a very casual tweeting style and uses Twitter mainly 
 #### Stock Price and Engagement Analysis
 * From our analysis, we saw that engagement and influence has an economic impact of the company. A single tweet has the potential to affect the stock market prices. The influential CEOs can leverage Twitter to turn the negative sentiments of the crowd to the positive ones and affect the market (Examples are given in the presentation).
 * Engagement analysis showed that customers repond well when CEOs engage in conversations, apart from pushing their products or services. When CEOs use the platform to promote philanthropic efforts, impart life advice or share their personal interests, they tend to give the impression of being authentic and relatable, increasing their engagement.
+
+#### Future Scope
+* Using Linear Regression is not ideal in this scenario but it was a good place to start to discern if there was relation between tweets sentiments and the stock price.
+* Extend this by building more complex predictive models using Time Series, ARIMA etc and incorporate social network analysis of the twitter users for influence and reputation.
